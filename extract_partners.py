@@ -79,8 +79,9 @@ if __name__ == '__main__':
 
     itemfpartners.extend(itemnpartners)
 
-    items = {'items': itemfpartners,
-            "types": {"Item": {"label": "partner", "pluralLabel": "partners"}}
+     items = {'items': itemfpartners,
+            "types": {"Item": {"label": "partner", "pluralLabel": "partners"}},
+            "properties":{"url": {"valueType": "url"}}
         }
 
     json.dump(items, open('partners2.json', 'w'))
