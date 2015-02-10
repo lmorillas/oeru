@@ -1,1 +1,210 @@
-{"items": [{"url": "Athabasca_University", "country": "Canada", "type_partner": "Founding", "latlon": "54.7155451,-113.3083182", "label": "Athabasca University"}, {"url": "http://www.nmit.ac.nz/", "country": "New Zealand", "type_partner": "Founding", "latlon": "-41.274614,173.2889629", "label": "Nelson Marlborough Institute of Technology"}, {"url": "http://www.northland.ac.nz/", "country": "New Zealand", "type_partner": "Founding", "latlon": "-35.7405336,174.304154", "label": "NorthTec"}, {"url": "http://www.openpolytechnic.ac.nz/", "country": "New Zealand", "type_partner": "Founding", "latlon": "-41.2188784,174.9308905", "label": "Open Polytechnic"}, {"url": "Otago Polytechnic", "country": "New Zealand", "type_partner": "Founding", "latlon": "-45.866225,170.518305", "label": "Otago Polytechnic"}, {"url": "http://www.snhu.edu/", "country": "USA", "type_partner": "Founding", "latlon": "43.0413087,-71.4521994", "label": "Southern New Hampshire University"}, {"url": "http://www.tru.ca/distance/", "country": "Canada", "type_partner": "Founding", "latlon": "50.6735163,-120.3677162", "label": "Thompson Rivers University"}, {"url": "http://www.unisa.ac.za/default.html", "country": "South Africa", "type_partner": "Founding", "latlon": "-25.76813,28.19987", "label": "University of South Africa"}, {"url": "USQ", "country": "Australia", "type_partner": "Founding", "latlon": "-27.60316,151.932365", "label": "University of Southern Queensland"}, {"url": "http://www.uow.edu.au/index.html", "country": "Australia", "type_partner": "Founding", "latlon": "-34.4054039,150.87843", "label": "University of Wollongong"}, {"url": "OERF:Home", "country": "New Zealand", "type_partner": "Founding", "latlon": "", "label": "OER Foundation (non-teaching)"}, {"url": "BCcampus (non-teaching)", "country": "Canada", "type_partner": "Founding", "latlon": "", "label": "BCcampus (non-teaching)"}, {"url": "http://www.excelsior.edu/", "country": "USA", "type_partner": "Normal", "latlon": "42.7054507,-73.8630202", "label": "Excelsior College"}, {"url": "http://www.kwantlen.ca/home.html", "country": "Canada", "type_partner": "Normal", "latlon": "49.1331231,-122.8710508", "label": "Kwantlen Polytechnic University"}, {"url": "http://www.uoc.edu/portal/en/index.html", "country": "Spain", "type_partner": "Normal", "latlon": "41.3878722,2.1681669", "label": "Open University of Catalonia"}, {"url": "http://www.tesc.edu", "country": "USA", "type_partner": "Normal", "latlon": "40.2204364,-74.76821", "label": "Thomas Edison State College"}, {"url": "http://www.unitec.ac.nz/", "country": "New Zealand", "type_partner": "Normal", "latlon": "-36.8808767,174.7080243", "label": "Unitec Institute of Technology"}, {"url": "http://www.southwales.ac.uk/", "country": "United Kingdom", "type_partner": "Normal", "latlon": "51.4791648,-3.1695342", "label": "University of South Wales"}, {"url": "http://www.usp.ac.fj/", "country": "Fiji", "type_partner": "Normal", "latlon": "-18.1509798,178.4443027", "label": "University of the South Pacific"}, {"url": "http://www.wintec.ac.nz/", "country": "New_Zealand", "type_partner": "Normal", "latlon": "-36.879003,174.632621", "label": "Wintec"}, {"url": "http://itsligo.ie/", "country": "Ireland", "type_partner": "Normal", "latlon": "54.2766103,-8.4760888", "label": "Institute of Technology Sligo"}, {"url": "http://sndt.ac.in/", "country": "India", "type_partner": "Normal", "latlon": "16.2354522,80.6682379", "label": "S.N.D.T. Women's University"}, {"url": "http://akoaotearoa.ac.nz", "country": "New Zealand", "type_partner": "Normal", "latlon": "", "label": "Ako Aotearoa"}, {"url": "http://www.csu.edu.au/", "country": "Australia", "type_partner": "Normal", "latlon": "-35.0655777,147.3598056", "label": "Charles Sturt University"}, {"url": "http://www.utas.edu.au/", "country": "Australia", "type_partner": "Normal", "latlon": "-42.901747,147.327433", "label": "University of Tasmania"}, {"url": "http://www.ecampusalberta.ca/", "country": "Canada", "type_partner": "Normal", "latlon": "", "label": "eCampusAlberta"}, {"url": "http://www.nwu.ac.za", "country": "South Africa", "type_partner": "Normal", "latlon": "-25.8236748,25.6104451", "label": "North-West University"}, {"url": "http://www.contactnorth.ca/home", "country": "Canada", "type_partner": "Normal", "latlon": "", "label": "Contact North {{vbar}} Contact Nord"}, {"url": "http://www.portagecollege.ca/", "country": "Canada", "type_partner": "Normal", "latlon": "54.448082,-110.203042", "label": "Portage College"}, {"url": "http://www.open.ac.uk/", "country": "United Kingdom", "type_partner": "Normal", "latlon": "52.0248254,-0.7077008", "label": "The Open University"}, {"url": "http://www.hbmsu.ac.ae/", "country": "United Arab Emirates", "type_partner": "Normal", "latlon": "25.1041247,55.3928359", "label": "Hamdan Bin Mohammed Smart University"}, {"url": "http://www.uhi.ac.uk/en", "country": "United Kingdom", "type_partner": "Normal", "latlon": "57.470943,-4.230444", "label": "The University of the Highlands and Islands"}, {"url": "http://www.curtin.edu.au/", "country": "Australia", "type_partner": "Normal", "latlon": "-32.0061951,115.8944182", "label": "Curtin University"}], "types": {"Item": {"pluralLabel": "partners", "label": "partner"}}}
+{
+    "items": [{
+        "url": "Athabasca_University",
+        "country": "Canada",
+        "type_partner": "Founding",
+        "latlon": "54.7155451,-113.3083182",
+        "label": "Athabasca University"
+    }, {
+        "url": "http://www.nmit.ac.nz/",
+        "country": "New Zealand",
+        "type_partner": "Founding",
+        "latlon": "-41.274614,173.2889629",
+        "label": "Nelson Marlborough Institute of Technology"
+    }, {
+        "url": "http://www.northland.ac.nz/",
+        "country": "New Zealand",
+        "type_partner": "Founding",
+        "latlon": "-35.7405336,174.304154",
+        "label": "NorthTec"
+    }, {
+        "url": "http://www.openpolytechnic.ac.nz/",
+        "country": "New Zealand",
+        "type_partner": "Founding",
+        "latlon": "-41.2188784,174.9308905",
+        "label": "Open Polytechnic"
+    }, {
+        "url": "Otago Polytechnic",
+        "country": "New Zealand",
+        "type_partner": "Founding",
+        "latlon": "-45.866225,170.518305",
+        "label": "Otago Polytechnic"
+    }, {
+        "url": "http://www.snhu.edu/",
+        "country": "USA",
+        "type_partner": "Founding",
+        "latlon": "43.0413087,-71.4521994",
+        "label": "Southern New Hampshire University"
+    }, {
+        "url": "http://www.tru.ca/distance/",
+        "country": "Canada",
+        "type_partner": "Founding",
+        "latlon": "50.6735163,-120.3677162",
+        "label": "Thompson Rivers University"
+    }, {
+        "url": "http://www.unisa.ac.za/default.html",
+        "country": "South Africa",
+        "type_partner": "Founding",
+        "latlon": "-25.76813,28.19987",
+        "label": "University of South Africa"
+    }, {
+        "url": "USQ",
+        "country": "Australia",
+        "type_partner": "Founding",
+        "latlon": "-27.60316,151.932365",
+        "label": "University of Southern Queensland"
+    }, {
+        "url": "http://www.uow.edu.au/index.html",
+        "country": "Australia",
+        "type_partner": "Founding",
+        "latlon": "-34.4054039,150.87843",
+        "label": "University of Wollongong"
+    }, {
+        "url": "OERF:Home",
+        "country": "New Zealand",
+        "type_partner": "Founding",
+        "latlon": "",
+        "label": "OER Foundation (non-teaching)"
+    }, {
+        "url": "BCcampus (non-teaching)",
+        "country": "Canada",
+        "type_partner": "Founding",
+        "latlon": "",
+        "label": "BCcampus (non-teaching)"
+    }, {
+        "url": "http://www.excelsior.edu/",
+        "country": "USA",
+        "type_partner": "Normal",
+        "latlon": "42.7054507,-73.8630202",
+        "label": "Excelsior College"
+    }, {
+        "url": "http://www.kwantlen.ca/home.html",
+        "country": "Canada",
+        "type_partner": "Normal",
+        "latlon": "49.1331231,-122.8710508",
+        "label": "Kwantlen Polytechnic University"
+    }, {
+        "url": "http://www.uoc.edu/portal/en/index.html",
+        "country": "Spain",
+        "type_partner": "Normal",
+        "latlon": "41.3878722,2.1681669",
+        "label": "Open University of Catalonia"
+    }, {
+        "url": "http://www.tesc.edu",
+        "country": "USA",
+        "type_partner": "Normal",
+        "latlon": "40.2204364,-74.76821",
+        "label": "Thomas Edison State College"
+    }, {
+        "url": "http://www.unitec.ac.nz/",
+        "country": "New Zealand",
+        "type_partner": "Normal",
+        "latlon": "-36.8808767,174.7080243",
+        "label": "Unitec Institute of Technology"
+    }, {
+        "url": "http://www.southwales.ac.uk/",
+        "country": "United Kingdom",
+        "type_partner": "Normal",
+        "latlon": "51.4791648,-3.1695342",
+        "label": "University of South Wales"
+    }, {
+        "url": "http://www.usp.ac.fj/",
+        "country": "Fiji",
+        "type_partner": "Normal",
+        "latlon": "-18.1509798,178.4443027",
+        "label": "University of the South Pacific"
+    }, {
+        "url": "http://www.wintec.ac.nz/",
+        "country": "New_Zealand",
+        "type_partner": "Normal",
+        "latlon": "-36.879003,174.632621",
+        "label": "Wintec"
+    }, {
+        "url": "http://itsligo.ie/",
+        "country": "Ireland",
+        "type_partner": "Normal",
+        "latlon": "54.2766103,-8.4760888",
+        "label": "Institute of Technology Sligo"
+    }, {
+        "url": "http://sndt.ac.in/",
+        "country": "India",
+        "type_partner": "Normal",
+        "latlon": "16.2354522,80.6682379",
+        "label": "S.N.D.T. Women's University"
+    }, {
+        "url": "http://akoaotearoa.ac.nz",
+        "country": "New Zealand",
+        "type_partner": "Normal",
+        "latlon": "",
+        "label": "Ako Aotearoa"
+    }, {
+        "url": "http://www.csu.edu.au/",
+        "country": "Australia",
+        "type_partner": "Normal",
+        "latlon": "-35.0655777,147.3598056",
+        "label": "Charles Sturt University"
+    }, {
+        "url": "http://www.utas.edu.au/",
+        "country": "Australia",
+        "type_partner": "Normal",
+        "latlon": "-42.901747,147.327433",
+        "label": "University of Tasmania"
+    }, {
+        "url": "http://www.ecampusalberta.ca/",
+        "country": "Canada",
+        "type_partner": "Normal",
+        "latlon": "",
+        "label": "eCampusAlberta"
+    }, {
+        "url": "http://www.nwu.ac.za",
+        "country": "South Africa",
+        "type_partner": "Normal",
+        "latlon": "-25.8236748,25.6104451",
+        "label": "North-West University"
+    }, {
+        "url": "http://www.contactnorth.ca/home",
+        "country": "Canada",
+        "type_partner": "Normal",
+        "latlon": "",
+        "label": "Contact North {{vbar}} Contact Nord"
+    }, {
+        "url": "http://www.portagecollege.ca/",
+        "country": "Canada",
+        "type_partner": "Normal",
+        "latlon": "54.448082,-110.203042",
+        "label": "Portage College"
+    }, {
+        "url": "http://www.open.ac.uk/",
+        "country": "United Kingdom",
+        "type_partner": "Normal",
+        "latlon": "52.0248254,-0.7077008",
+        "label": "The Open University"
+    }, {
+        "url": "http://www.hbmsu.ac.ae/",
+        "country": "United Arab Emirates",
+        "type_partner": "Normal",
+        "latlon": "25.1041247,55.3928359",
+        "label": "Hamdan Bin Mohammed Smart University"
+    }, {
+        "url": "http://www.uhi.ac.uk/en",
+        "country": "United Kingdom",
+        "type_partner": "Normal",
+        "latlon": "57.470943,-4.230444",
+        "label": "The University of the Highlands and Islands"
+    }, {
+        "url": "http://www.curtin.edu.au/",
+        "country": "Australia",
+        "type_partner": "Normal",
+        "latlon": "-32.0061951,115.8944182",
+        "label": "Curtin University"
+    }],
+    "types": {
+        "Item": {
+            "pluralLabel": "partners",
+            "label": "partner"
+        }
+        },
+     "properties":{
+        "url": {"valueType": "url"}
+    }
+}
