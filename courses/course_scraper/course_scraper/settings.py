@@ -8,10 +8,18 @@
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #
 
+
 BOT_NAME = 'course_scraper'
 
 SPIDER_MODULES = ['course_scraper.spiders']
 NEWSPIDER_MODULE = 'course_scraper.spiders'
+
+DOWNLOADER_MIDDLEWARES = {
+    'scrapy.contrib.downloadermiddleware.httpcache.HttpCacheMiddleware': 300,
+}
+
+HTTPCACHE_ENABLED = True
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'course_scraper (+http://www.yourdomain.com)'
